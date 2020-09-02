@@ -1,0 +1,10 @@
+{
+  "domain": "rotelserial",
+  "name": "Rotel serial",
+  "documentation": "",
+  "requirements": [ 
+	  "pyserial-asyncio==0.4" 
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
