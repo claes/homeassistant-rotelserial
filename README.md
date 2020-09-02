@@ -15,7 +15,8 @@ To configure, I added a configuration like below in configuration.yaml
 
 Adjust to correspond with your RS232 device:
 
-media_player:
-  - platform: rotelserial
-    name: ROTEL
-    serial_port: /dev/ttyUSB0
+
+    media_player:
+      - platform: rotelserial
+        name: ROTEL
+        serial_port: /dev/ttyUSB0
