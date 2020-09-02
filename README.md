@@ -4,6 +4,7 @@ be controlled by Home Assistant using it's RS232 interface.
 It will let you turn it on and off, adjust the volume and change source.
 
 I use this together with my Rotel RA-12 amplifier and Home Assistant 0.103.5
+
 This is by now a quite old version of HA and I can't say whether it works with 
 newer versions of Home Assistant.
 
